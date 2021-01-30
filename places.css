@@ -1,0 +1,23 @@
+p,ol{
+    color: purple;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    p.NOTE{
+    border:1px solid black;
+    color: black;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a.side{
+    float:left;
+    color: brown;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    body{
+    background-color:LightBlue
+    }
+    a:hover{
+    color:red;
+    }

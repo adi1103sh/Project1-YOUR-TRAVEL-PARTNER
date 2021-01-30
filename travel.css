@@ -1,0 +1,60 @@
+p,td{
+    color: purple;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a{
+    color: blue;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a.side{
+    float:left;
+    color: brown;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    p.ouln{
+    text-decoration: overline underline;
+    color: black;
+    font-size: 50px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    th,p.NOTE{
+    text-decoration: overline underline;
+    color: black;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    p.NOTE{
+    border=1px solid black;
+    color: black;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    li.red{
+    color: red;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    li.green{
+    color: green;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    li.orange{
+    color: orange;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    li.magenta{
+    color: magenta;
+    font-size: 35px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a:hover{
+    color:red;
+    }
+    body{
+    background-color:LightBlue;
+    }

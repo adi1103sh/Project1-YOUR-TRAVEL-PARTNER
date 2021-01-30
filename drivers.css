@@ -1,0 +1,25 @@
+p{
+    color: purple;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a:hover{
+    color:red;
+    }
+    a.side:hover{
+    color:red;
+    }
+    a.side{
+    float:left;
+    color: brown;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    a{
+    color: blue;
+    font-size: 30px;
+    font-family: Segoe Print,Helvetica,Arial Black;
+    }
+    body{
+    background-color:LightBlue;
+    }
